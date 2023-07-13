@@ -28,3 +28,4 @@ Abrir su manejador de BD Mysql y ejecular el archivo sql que se encuentra en la 
 ## Despliegue
 http://localhost:8000/productos
 "# cafeteria_konecta"  
+"# cafeteria_konecta" 
